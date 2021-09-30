@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ARPort",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

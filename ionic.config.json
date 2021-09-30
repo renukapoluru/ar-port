@@ -1,0 +1,7 @@
+{
+  "name": "ARPort",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

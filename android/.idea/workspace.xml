@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6cb61cc-f8e1-430f-8673-82c3f5629ff3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/assets/icon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/assets/icon/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/assets/scene.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/assets/shapes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/cordova.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/cordova_plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/css/app.60fc8e94.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/css/chunk-a96ffce2.6ffb10dc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/css/chunk-c0b2f13c.8da9474f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/css/chunk-ce3d4316.e8969aa4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/css/chunk-vendors.d0ded9bd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/img/pin.0382986b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/img/rating.b132ef2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/app.17233d6b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/app.17233d6b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-02c995b5.c8dee7ab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-02c995b5.c8dee7ab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-09155df3.e3ac211b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-09155df3.e3ac211b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-09162720.102e7a40.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-09162720.102e7a40.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-097e0872.72838c02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-097e0872.72838c02.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-0e93a01c.b0a5975b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-0e93a01c.b0a5975b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-1bff95de.1b6757b8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-1bff95de.1b6757b8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-1c4705f4.6dbe2887.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-1c4705f4.6dbe2887.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-1dbc15a2.8c41fb29.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-1dbc15a2.8c41fb29.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-21a76241.9a71d653.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-21a76241.9a71d653.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-25d83ca8.6587c6be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-25d83ca8.6587c6be.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0a463b.580f9170.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0a463b.580f9170.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0ac931.667708a1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0ac931.667708a1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0b33e3.2e69defc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0b33e3.2e69defc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0b9074.cf6d8bbf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0b9074.cf6d8bbf.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0b9280.58416f48.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0b9280.58416f48.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0baac9.ecbd8a2b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0baac9.ecbd8a2b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0bd598.16b97154.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0bd598.16b97154.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0c073f.017f6960.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0c073f.017f6960.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0c211b.bd5d9530.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0c211b.bd5d9530.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0c9758.62f099a9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0c9758.62f099a9.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0cf315.8bdd27d5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0cf315.8bdd27d5.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0d43da.c6672c38.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0d43da.c6672c38.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0da04a.620f425b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0da04a.620f425b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0e5812.bc3079e1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d0e5812.bc3079e1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d20f517.b064a8a7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d20f517.b064a8a7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d213189.2b11f265.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d213189.2b11f265.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d217def.a644b19b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d217def.a644b19b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d217e6a.9d5e5387.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d217e6a.9d5e5387.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d218068.115cead1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d218068.115cead1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d21a9aa.51f415cb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d21a9aa.51f415cb.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d21da73.56e20878.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d21da73.56e20878.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d222cca.eaa1fa6a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d222cca.eaa1fa6a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d22895d.77161f63.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d22895d.77161f63.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d2297f7.78980670.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d2297f7.78980670.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d2304d2.72233652.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d2304d2.72233652.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d23721e.013295b1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d23721e.013295b1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d2376e6.a05b70ee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d2376e6.a05b70ee.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d237b00.037b5772.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-2d237b00.037b5772.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-30dd9750.6b7d6eb0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-30dd9750.6b7d6eb0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-37f2300e.cc3c45b7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-37f2300e.cc3c45b7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-3b5d5b10.814568bb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-3b5d5b10.814568bb.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-3ed29de3.9e68e146.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-3ed29de3.9e68e146.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-41c0f7a4.5f0941d1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-41c0f7a4.5f0941d1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-426f2f16.a217abc1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-426f2f16.a217abc1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-462c869e.0ea6ae2c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-462c869e.0ea6ae2c.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-47245a33.b9e6a322.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-47245a33.b9e6a322.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-4739acd0.b82826b2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-4739acd0.b82826b2.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-53b1137a.c087f733.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-53b1137a.c087f733.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-541ea42d.63c37d24.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-541ea42d.63c37d24.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-54bbd082.aa2ffdeb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-54bbd082.aa2ffdeb.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-59d4c87c.9a2960ba.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-59d4c87c.9a2960ba.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-5a8ac886.5d25722a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-5a8ac886.5d25722a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-5ff96a24.bc2c1407.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-5ff96a24.bc2c1407.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-6646dcfe.1f2ce5c5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-6646dcfe.1f2ce5c5.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-69eb8776.8f434896.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-69eb8776.8f434896.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-6d375f34.8b250ad4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-6d375f34.8b250ad4.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-7548ca2d.f50c2a89.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-7548ca2d.f50c2a89.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-79f1dac7.4481f814.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-79f1dac7.4481f814.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-858cd918.54b9acef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-858cd918.54b9acef.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-8bb7f81e.4465b78a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-8bb7f81e.4465b78a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-a9395c36.8777d2b5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-a9395c36.8777d2b5.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-a96ffce2.078d0a0d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-a96ffce2.078d0a0d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-c0b2f13c.683e5a57.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-c0b2f13c.683e5a57.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-ce3d4316.86bf5279.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-ce3d4316.86bf5279.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-d0e8aa0a.ef2f5d14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-d0e8aa0a.ef2f5d14.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-d8413eac.9e3a3351.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-d8413eac.9e3a3351.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-e5275ddc.fb4bde6d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-e5275ddc.fb4bde6d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-eaa2b130.700c0fb3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-eaa2b130.700c0fb3.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-vendors.24ae3364.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/chunk-vendors.24ae3364.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/polyfills-core-js.12be3461.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/polyfills-core-js.12be3461.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/polyfills-dom.662760da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/polyfills-dom.662760da.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/stencil-polyfills-css-shim.95cbdafc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/stencil-polyfills-css-shim.95cbdafc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/stencil-polyfills-dom.f9377d9e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/js/stencil-polyfills-dom.f9377d9e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/cordova.variables.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/src/main/java/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/src/main/res/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ionic/starter/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-hdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-mdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xxxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-port-hdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-port-mdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-port-xhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-port-xxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-port-xxxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/poluru.r/.android/avd/Pixel_XL_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1w1pMRLpOkP0kpnI8jDzPIHEjVu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="MIPMAP" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6cb61cc-f8e1-430f-8673-82c3f5629ff3" name="Default Changelist" comment="" />
+      <created>1627635903493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627635903493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
