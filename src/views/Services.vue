@@ -64,7 +64,7 @@ export default  {
       this.type = this.$route.params.type;
       console.log('type is', this.type);
       try {
-        fetch('http://localhost:3000/services?type=restaurant')
+        fetch('https://cash-grow-nodejs.herokuapp.com/services?type=restaurant')
           .then(response => response.json())
           .then(result => { this.data = [...result];})
           .catch(error => console.log('error', error));
